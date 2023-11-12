@@ -1,3 +1,5 @@
+![CI](https://github.com/Maxon1975/Frontend/actions/workflows/web.yml/badge.svg)
+
 ### HelpDesk: Frontend
 
 #### Легенда
